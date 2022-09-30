@@ -1,0 +1,16 @@
+PODS:
+  - zhqPodTest1 (0.1.0)
+
+DEPENDENCIES:
+  - zhqPodTest1 (from `../`)
+
+EXTERNAL SOURCES:
+  zhqPodTest1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zhqPodTest1: f230bb3669665638c7c63b3100a99e95865beb3d
+
+PODFILE CHECKSUM: ad9106641f48f71b447572c02ea94cb2bd7e8883
+
+COCOAPODS: 1.11.3
